@@ -1,0 +1,48 @@
+body {
+  background-color: white;
+  padding: 10px;
+  margin: 0;
+}
+
+.active {
+  background-color: green;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.header {
+  background-color: black;
+  padding: 0;
+}
+
+ul.header li a {
+  color: white;
+  padding: 15px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.content {
+  background-color: white;
+  padding: 10px;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 5px;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 1px 10px;
+  margin: 0px;
+}
