@@ -6,9 +6,6 @@ ReactJS and Single-Page Applications
 */
 // Just a very simple backend
 
-// credentials
-$username = "000313753";
-$password = "19891107";
 $dsn = "mysql:host=localhost;dbname=000313753;";
 
 // connect to database
